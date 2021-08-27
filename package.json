@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "naive-ui": "^2.15.11"
+  },
+  "dependencies": {
+    "hexo": "^5.4.0",
+    "http-proxy-middleware": "^2.0.1"
+  }
+}
